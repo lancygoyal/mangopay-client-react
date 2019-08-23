@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ignivalancy/mangopay-client-react.git"
+    "url": "git+https://github.com/lancygoyal/mangopay-client-react.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "Lancy Goyal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ignivalancy/mangopay-client-react/issues"
+    "url": "https://github.com/lancygoyal/mangopay-client-react/issues"
   },
-  "homepage": "https://github.com/ignivalancy/mangopay-client-react#readme",
+  "homepage": "https://github.com/lancygoyal/mangopay-client-react#readme",
   "dependencies": {
     "base-64": "^0.1.0"
   }
