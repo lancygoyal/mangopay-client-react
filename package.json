@@ -1,6 +1,6 @@
 {
   "name": "mangopay-client-react",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Mangopay React and React Native First JS Client library with card registration workflow.",
   "main": "index.js",
   "scripts": {
