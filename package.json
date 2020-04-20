@@ -1,5 +1,5 @@
 {
-  "name": "mangopay-client-react",
+  "name": "@lancygoyal/mangopay-client-react",
   "version": "2.0.2",
   "description": "Mangopay React and React Native First JS Client library with card registration workflow.",
   "main": "index.js",
@@ -27,5 +27,8 @@
   "homepage": "https://github.com/lancygoyal/mangopay-client-react#readme",
   "dependencies": {
     "base-64": "^0.1.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
